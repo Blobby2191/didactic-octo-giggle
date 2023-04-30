@@ -1,0 +1,40 @@
+.button1 {
+    background-color: #ff00ff;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 3px;
+}
+
+.button1:hover {
+    background-color: #ff00aa;
+    height: 60px;
+    font-size: 25px;
+}
+
+.button2 {
+    background-color: #0000ff;
+}
+
+body {
+    background: linear-gradient(0deg,  rgba(255,0,255,1) 0%, rgba(0,0,255,1) 100%);
+}
+
+h1 {
+    color: #ffb0ff;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.white {
+    color: #ffffff
+}
+
+.button2:hover {
+    background-color: #5050ff;
+    height: 125px;
+    width: 400px;
+}
+
+.blue {
+    background-color: #a0a0ff;
+}
