@@ -26,7 +26,8 @@ h1 {
 }
 
 .white {
-    color: #ffffff
+    color: #ffffff;
+    font-family: sans-serif;
 }
 
 .button2:hover {
