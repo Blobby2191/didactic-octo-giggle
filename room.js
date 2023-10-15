@@ -14,3 +14,7 @@ const firebaseConfig = {
    localStorage.setItem("room_name", room); 
    window.location.replace("page.html");
  } 
+
+ function logout() {
+  window.location.replace("index.html");
+ }
